@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Watch VoIP Notifier</string>
+    <string name="survey_service_name">VoIP Notification Survey Service</string>
 </resources>
